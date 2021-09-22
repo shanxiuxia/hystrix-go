@@ -2,7 +2,6 @@ package hystrix
 
 import (
 	"context"
-	"fmt"
 	"sync"
 	"time"
 )
